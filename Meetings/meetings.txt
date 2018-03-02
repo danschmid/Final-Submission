@@ -2,5 +2,7 @@
 
 Whole group met at 3:00pm to discuss app ideas and finalize milestone 1. Decided we did not want to go mobile route, instead opting for game playable on pc.
 
+2/28/18
 
+Group met and discussed the game idea. We will be making a shooting platformer with a storyline following a demon travelling through the underworld. We set up a Trello board and discussed game level designs, characters, mechanics, etc. 
 
