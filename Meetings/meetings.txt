@@ -6,3 +6,5 @@ Whole group met at 3:00pm to discuss app ideas and finalize milestone 1. Decided
 
 Group met and discussed the game idea. We will be making a shooting platformer with a storyline following a demon travelling through the underworld. We set up a Trello board and discussed game level designs, characters, mechanics, etc. 
 
+3/7/18
+Group met and finalized milestone 2. Got sprint designed, and everyone is working on Unity to get prepared so we can hit the ground running designing levels and add further mechanics.
