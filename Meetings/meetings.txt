@@ -1,10 +1,13 @@
 2/16/18 
 
-Whole group met at 3:00pm to discuss app ideas and finalize milestone 1. Decided we did not want to go mobile route, instead opting for game playable on pc.
+All group members met at 3:00pm to discuss app ideas and finalize milestone 1. Decided we did not want to go mobile route, instead opting for game playable on pc.
 
 2/28/18
 
-Group met and discussed the game idea. We will be making a shooting platformer with a storyline following a demon travelling through the underworld. We set up a Trello board and discussed game level designs, characters, mechanics, etc. 
+Group met, Vasa and Daniel Schmidt conference called in and discussed the game idea. We will be making a shooting platformer with a storyline following a demon travelling through the underworld. We set up a Trello board and discussed game level designs, characters, mechanics, etc. 
 
 3/7/18
-Group met and finalized milestone 2. Got sprint designed, and everyone is working on Unity to get prepared so we can hit the ground running designing levels and add further mechanics.
+Group met, Daniel Schmidt conference called in and we finalized milestone 2. Got sprint designed, and everyone is working on Unity to get prepared so we can hit the ground running designing levels and add further mechanics.
+
+3/10/18
+All group members met on Slack and Skype to get more details for the game and agreed to start working on greed level.
