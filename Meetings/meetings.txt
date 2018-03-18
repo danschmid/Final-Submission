@@ -11,3 +11,6 @@ Group met, Daniel Schmidt conference called in and we finalized milestone 2. Got
 
 3/10/18
 All group members met on Slack and Skype to get more details for the game and agreed to start working on greed level.
+
+3/14/17
+VL, JL, WZ, CS, DM were present for meeting, worked on Greed level. Animations, coin collection, power-ups, login, and asset design were worked on. Pride level isntantiated.
