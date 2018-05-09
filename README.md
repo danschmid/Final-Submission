@@ -17,3 +17,7 @@ LEFT SHIFT - dash (if purchased in the store in the Sloth level)
 ESC - pause menu
 
 To wall climb, use a combination of pressing and releasing SPACE and the direction keys.
+
+
+
+Please check out the Credits.txt file to see all of the awesome artists who helped make ASCENSION!!
