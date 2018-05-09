@@ -12,6 +12,8 @@ SPACE - jump
 
 LEFT MOUSE - shoot
 
+LEFT SHIFT - dash (if purchased in the store in the Sloth level)
+
 ESC - pause menu
 
 To wall climb, use a combination of pressing and releasing SPACE and the direction keys.
