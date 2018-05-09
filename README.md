@@ -1,6 +1,6 @@
 # ASCENSION
 
-Download ASCENSION for your Mac or PC from the Release tab. 
+Download ASCENSION for your Mac or PC from the [Release](https://github.com/dm2112/Final-Submission/releases) tab. 
 
 Baisc game controls:
 
@@ -20,4 +20,4 @@ To wall climb, use a combination of pressing and releasing SPACE and the directi
 
 
 
-Please check out the Credits.txt file to see all of the awesome artists who helped make ASCENSION!!
+Please check out the credits [here](https://github.com/dm2112/Final-Submission/blob/master/Credits.txt) to see all of the awesome artists who helped make ASCENSION!!
