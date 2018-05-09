@@ -21,3 +21,28 @@ To wall climb, use a combination of pressing and releasing SPACE and the directi
 
 
 Please check out the credits [here](https://github.com/dm2112/Final-Submission/blob/master/Credits.txt) to see all of the awesome artists who helped make ASCENSION!!
+
+
+# Repository Navigation & Structure
+
+- Milestones
+	- Contains all project milestones for CSCI 3308
+
+- Meetings
+	- Logs some of the initial meetings of our group and what happened in them
+
+- Deliverables
+	- Contains working builds for the game
+
+- Source Code
+	- Contains the various scripts used in-game
+
+
+# "Where to find the docs"
+
+???
+
+
+# How to run
+
+Simply visit the project's [Release](https://github.com/dm2112/Final-Submission/releases) tab, and click the download ASCENSION.zip. After extracting, simply run the executable to start!
