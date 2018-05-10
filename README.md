@@ -40,11 +40,6 @@ Please check out the credits [here](https://github.com/dm2112/Final-Submission/b
 	- Contains the various scripts used in-game
 
 
-# "Where to find the docs"
-
-???
-
-
 # How to run
 
 Simply visit the project's [Release](https://github.com/dm2112/Final-Submission/releases) tab, and click the download ASCENSION.zip. After extracting, simply run the executable to start!
