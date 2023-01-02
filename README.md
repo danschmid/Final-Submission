@@ -4,7 +4,7 @@ Download ASCENSION for your Mac or PC from the [Release](https://github.com/dm21
 
 ASECENSION is a 2D platformer built with Unity, where you fight your way through the Underworld. 7 levels based on the 7 Deadly Sins are the only thing in your way to escaping. 
 
-Baisc game controls:
+Basic game controls:
 
 A (or left arrow key) - walk left
 
